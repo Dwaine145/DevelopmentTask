@@ -7011,8 +7011,9 @@ margin-top:250px;
 }
 .contact-fluid {
 
-float:left;
-margin-left:30px;
+
+margin-left:5%;
+
 height:20px;
 text-align:left;
 
@@ -7022,10 +7023,9 @@ text-align:left;
 
 .contactone-fluid {
 position:absolute;
-float:left;
-margin-left:170px;
+margin-left:30%;
 height:20px;
-margin-top:20px;
+margin-top:-40px;
 text-align:left;
 
 
@@ -7080,19 +7080,20 @@ height:100px;
 
 width:150px;
 
-margin-left:300px;
+margin-left:60%;
 text-align:left;
+margin-top:-35px;
 
 
 
 }
 
-.copy {
+.copy-fluid {
 
 
 
 
-margin-left:-100px;
+margin-left:-200px;
 
 
 
@@ -7154,5 +7155,12 @@ color:green;
 h5 {
 
 color:green;
+}
+
+.footer-fluid  {
+
+width:100%;
+
+
 }
 /*# sourceMappingURL=bootstrap.css.map */
